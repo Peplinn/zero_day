@@ -1,1 +1,1 @@
-'*Another zero day.*' 
+'*Another zero-day!*' 
