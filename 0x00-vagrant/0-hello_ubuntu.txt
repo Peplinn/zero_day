@@ -1,0 +1,4 @@
+Ubuntu (64-bit)
+Ubuntu
+5.13.0-27-generic
+x86_64
